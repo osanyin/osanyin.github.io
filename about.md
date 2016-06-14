@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
+![Hello!]({{ site.url }}/assets/images/about_lemur.jpg)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Meu nome é Rafael Guimarães, sou desenvolvedor back-end, trabalho principalmente
+com Ruby e o framework Ruby on Rails. O objetivo deste blog é expor meus experimentos
+na área, compartilhando o máximo possível do que aprendi.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Nasci no interior do Piauí, na cidade de Piripiri, comecei a programar ainda
+na adoslecência, quando meu único objetivo era criar um servidor de ragnarok.
+Me apaixonei por programação e logo deixei os MMORPGs de lado (saudade).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Trabalho profissionalmente com desenvolvimento web a cerca de 5 anos.
+Mas também tenho interesse em outras áreas, como eletrônica e game dev.
+
+Se quiser trocar alguma ideia, estarei disponível através do email
+no rodapé desta página. Será um prazer conhecer você.

@@ -9,9 +9,9 @@
 title: Rafael Guimarães
 email: rafaelguimaraesweb@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Aqui compartilho minha experência com Ruby, Python, Go, Javascript e a vida.
+  Aqui compartilho minha experência com Ruby, PHP, Javascript, Python, Go e a vida.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://osanyin.github.com.br" # the base hostname & protocol for your site
+url: "http://osanyin.github.io" # the base hostname & protocol for your site
 twitter_username: _osanyin
 github_username: osanyin
 
