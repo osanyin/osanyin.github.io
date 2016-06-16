@@ -10,7 +10,7 @@ com Ruby e o framework Ruby on Rails. O objetivo deste blog é expor meus experi
 na área, compartilhando o máximo possível do que aprendi.
 
 Nasci no interior do Piauí, na cidade de Piripiri, comecei a programar ainda
-na adoslecência, quando meu único objetivo era criar um servidor de ragnarok.
+na adolescência, quando meu único objetivo era criar um servidor de ragnarok.
 Me apaixonei por programação e logo deixei os MMORPGs de lado (saudade).
 
 Trabalho profissionalmente com desenvolvimento web a cerca de 5 anos.
