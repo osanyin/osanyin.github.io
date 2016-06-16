@@ -5,13 +5,13 @@ date:   2016-06-14 08:56:25 -0300
 categories: wellcome
 ---
 
-Segunda a maldição dos programadores, se você iniciar os estudos de uma nova
+De acordo com a maldição dos programadores, se você iniciar os estudos de uma nova
 tecnologia sem um "hello world", estará fadado a nunca aprender nada sobre aquilo.
 
 Agora que já estou livre da maldição, gostaria de falar um pouco para vocês
 sobre o motivo de ter iniciado este blog.
 
-A muito tempo eu já tinha vontade de criar uma espaço onde eu pudesse expor
+A muito tempo eu já tinha vontade de criar uma espaço onde pudesse expor
 minhas ideias, mas foi só agora, depois da Python Nordeste 2016, que tive coragem
 de colocar o projeto "Blog" em prática.
 
